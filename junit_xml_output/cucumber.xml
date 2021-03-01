@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="0">
+<testcase classname="Sample" name="login form" time="0">
+<skipped><![CDATA[Given the user open application.............................................undefined
+When Enter first name.......................................................undefined
+And Enter last name.........................................................undefined
+And Enter phone number......................................................undefined
+And Enter country name......................................................undefined
+And Enter city name.........................................................undefined
+And Enter Email address.....................................................undefined
+And Select gender...........................................................undefined
+And Select check box........................................................undefined
+And Select drop down........................................................undefined
+And Submit form.............................................................undefined
+Then validate for successful login..........................................undefined
+]]></skipped>
+</testcase>
+</testsuite>
